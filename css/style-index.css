@@ -1,0 +1,19 @@
+*{
+    background-color: #94dfc0;
+}
+
+.title{
+    text-align: center;
+    font-size: 50px;
+}
+
+.list{
+    font-size:30px;
+    margin: 100px 0px 0px 48px;
+}
+
+.link{
+    margin-left:120px;
+    margin-left:120px;
+    display:inline-block;
+}
