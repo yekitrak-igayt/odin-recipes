@@ -1,0 +1,14 @@
+*{
+    background-color:#35ff57;
+    box-sizing: border-box;
+}
+
+.image{
+    width: 300px;
+    height:auto;
+    
+}
+
+.title{
+    text-align: center;
+}
