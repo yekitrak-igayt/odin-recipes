@@ -2,18 +2,39 @@
     background-color: #94dfc0;
 }
 
+
+.card{
+    background-color: white;
+    padding: 10px;
+    border: 10px double black;
+    margin:250px 500px;
+
+}
+
 .title{
     text-align: center;
     font-size: 50px;
+    padding:0px;
+    background-color:white;
 }
-
+img{
+    display:block;
+    height:200px;
+    width:auto;
+    margin:auto;
+}
 .list{
     font-size:30px;
-    margin: 100px 0px 0px 48px;
+    text-align: center;
+    background-color: white;
+
 }
 
-.link{
-    margin-left:120px;
-    margin-left:120px;
-    display:inline-block;
+.one,
+.two,
+.three{
+    background-color: white;
 }
+
+
+
